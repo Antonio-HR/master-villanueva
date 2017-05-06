@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="master-datos-trabajos.com" resolutions="1x" timestamp="1494083340527">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="333830309" ref="index"/>
+    <file name="iefonts_index.css" crc="4139702873" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="rita-morais-103843.jpg" crc="406699521" ref="index"/>
+    <file name="inicio-crop-u1836.png" crc="4171174907" ref="index"/>
+    <file name="florian-klauer-489.jpg" crc="4024857786" seo="true" ref="index"/>
+    <file name="prensi1-01.png" crc="364464877" ref="index"/>
+    <file name="prensi1-01 copia.png" crc="48743203" ref="index"/>
+    <file name="prensi2-01.png" crc="4107484936" ref="index"/>
+    <file name="prensi1-02 copia.png" crc="148010566" ref="index"/>
+    <file name="prensi3-01.png" crc="3881732310" ref="index"/>
+    <file name="prensi1-03 copia.png" crc="397205480" ref="index"/>
+    <file name="gaelle-marcel-8992.jpg" crc="4224813476" seo="true" ref="index"/>
+    <file name="xml-crop-u1274.jpg" crc="4089995324" ref="index"/>
+    <file name="cabitelmapa-crop-u1588.jpg" crc="4278541443" ref="index"/>
+    <file name="xxxx.jpg" crc="503307097" ref="index"/>
+    <file name="ian-schneider-59335-crop-u1890.jpg" crc="3867400458" ref="index"/>
+    <file name="sarah-dorweiler-127187-crop-u1943.jpg" crc="23211063" ref="index"/>
+    <file name="1.jpg" crc="514992258" seo="true" ref="index"/>
+    <file name="2.jpg" crc="4192454077" seo="true" ref="index"/>
+    <file name="3.jpg" crc="294129570" seo="true" ref="index"/>
+    <file name="32.jpg" crc="4216427956" seo="true" ref="index"/>
+    <file name="4.jpg" crc="3898825903" seo="true" ref="index"/>
+    <file name="5.jpg" crc="260057286" seo="true" ref="index"/>
+    <file name="6.jpg" crc="484749517" seo="true" ref="index"/>
+    <file name="cristina.png" crc="4188027517" seo="true" ref="index"/>
+    <file name="ignacio.png" crc="201666786" seo="true" ref="index"/>
+    <file name="ines.png" crc="3806303505" seo="true" ref="index"/>
+    <file name="borja.png" crc="3881935668" seo="true" ref="index"/>
+    <file name="antonio.png" crc="3997554774" seo="true" ref="index"/>
+    <file name="rocio.png" crc="4123070933" seo="true" ref="index"/>
+    <file name="laura.png" crc="81003587" seo="true" ref="index"/>
+    <file name="xavi.png" crc="3960908690" seo="true" ref="index"/>
+    <file name="nicol.png" crc="46619079" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4240988029" seo="true" mt="1494081735969" redirect="true"/>
+</manifest>
